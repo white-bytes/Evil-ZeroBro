@@ -7,7 +7,7 @@ This is a customized fork with additional features and modifications for the whi
 
 ![Evil-ZeroBro](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/zerobro-1.PNG)
 
-* UART - ESP comunication With Arduino Pro Micro (BadUSB). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/UART%20-%20Arduino%20Pro%20Micro)
+* UART - ESP communication With Arduino Pro Micro (BadUSB). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/UART%20-%20Arduino%20Pro%20Micro)
 * SPI - ESP communication With RFID Reader. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/SPI%20-%20RFID%20reader)
 * GPIO - IR Receiver And Transmitter With Arduino Pro Micro. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/GPIO%20-%20IR)
 * SPI - ESP communication With TFT ILI9341. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/SPI%20-%20TFT%20ILI9341)
