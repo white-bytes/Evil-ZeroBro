@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.5)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 set(EXTRA_COMPONENT_DIRS "lib")
-project(ZeroBro)
+project(Evil-ZeroBro)
 
 spiffs_create_partition_image(storage0 font FLASH_IN_PROJECT)
 spiffs_create_partition_image(storage1 icons FLASH_IN_PROJECT)
