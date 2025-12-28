@@ -1,10 +1,10 @@
 # ESP32 LAN8720 Ethernet
 This sketch demonstrates how to use the LAN8720 Ethernet PHY with an ESP32 using minimal and standard configuration.
 
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Experimental/lan8720/wiring.PNG)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Experimental/lan8720/wiring.PNG)
 <br />
 <br />
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Experimental/lan8720/lan8720.jpg)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Experimental/lan8720/lan8720.jpg)
 
 ## Overview
 
@@ -39,7 +39,7 @@ The `setup` function initializes serial communication at a specified baud rate, 
 The `loop` function continuously checks if the Ethernet is connected. If connected, it calls the `testClient` function to connect to a specified host and port at regular intervals (every 10 seconds). This ensures that the Ethernet connection is tested periodically.
 
 ## Monitor Output
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Experimental/lan8720/outout.PNG)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Experimental/lan8720/outout.PNG)
 
 Arduino code based on this reference:<br />
 https://mischianti.org/integrating-lan8720-with-esp32-for-ethernet-connectivity-with-plain-http-and-ssl-https/
