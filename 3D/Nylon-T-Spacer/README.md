@@ -1,12 +1,12 @@
 # ABS T Shape Spacer (M3)
 
-We tried to find a nylon T shape spacer for the ZeroBro project but couldn't find something suitable on the web. <br />
+We tried to find a nylon T shape spacer for the Evil-ZeroBro project but couldn't find something suitable on the web. <br />
 So, we decided to design one ourselves and share it with you for free!
 <br /><br />
-![t-shape](https://raw.githubusercontent.com/proxytype/ZeroBro/main/3D/Nylon-T-Spacer/t-stand-f.PNG)
+![t-shape](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/3D/Nylon-T-Spacer/t-stand-f.PNG)
 <br />
-![t-shape](https://github.com/proxytype/ZeroBro/blob/main/3D/Nylon-T-Spacer/t-printed.png)
+![t-shape](https://github.com/white-bytes/Evil-ZeroBro/blob/main/3D/Nylon-T-Spacer/t-printed.png)
 <br />
 You can download the files in the following formats:
 - STL
-- [AutoCAD 123D file](https://github.com/proxytype/ZeroBro/raw/main/3D/Nylon-T-Spacer/stand-1-alone.123dx)
+- [AutoCAD 123D file](https://github.com/white-bytes/Evil-ZeroBro/raw/main/3D/Nylon-T-Spacer/stand-1-alone.123dx)

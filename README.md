@@ -1,30 +1,33 @@
-# ZeroBro
-ZeroBro is a cost-effective DIY alternative to the Flipper Zero, providing a similar functionality and design while catering to budget-conscious enthusiasts.
+# Evil-ZeroBro
 
-![ZeroBro](https://raw.githubusercontent.com/proxytype/ZeroBro/main/zerobro-1.PNG)
+**DISCLAIMER:** This is a custom DIY implementation and fork that is **NOT contributing to the original [ZeroBro project by proxytype](https://github.com/proxytype/ZeroBro)**. This is an independent project for personal experimentation and learning purposes.
 
-* UART - ESP comunication With Arduino Pro Micro (BadUSB). [>>>](https://github.com/proxytype/ZeroBro/tree/main/Sections/UART%20-%20Arduino%20Pro%20Micro)
-* SPI - ESP communication With RFID Reader. [>>>](https://github.com/proxytype/ZeroBro/tree/main/Sections/SPI%20-%20RFID%20reader)
-* GPIO - IR Receiver And Transmitter With Arduino Pro Micro. [>>>](https://github.com/proxytype/ZeroBro/tree/main/Sections/GPIO%20-%20IR)
-* SPI - ESP communication With TFT ILI9341. [>>>](https://github.com/proxytype/ZeroBro/tree/main/Sections/SPI%20-%20TFT%20ILI9341)
-* I2C - ESP communication With OLed 1306. [>>>](https://github.com/proxytype/ZeroBro/tree/main/Sections/I2C-%20OLED)
+Evil-ZeroBro is a custom implementation based on the ZeroBro concept - a cost-effective DIY alternative to the Flipper Zero, providing similar functionality and design while catering to budget-conscious enthusiasts.
+
+![Evil-ZeroBro](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/zerobro-1.PNG)
+
+* UART - ESP comunication With Arduino Pro Micro (BadUSB). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/UART%20-%20Arduino%20Pro%20Micro)
+* SPI - ESP communication With RFID Reader. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/SPI%20-%20RFID%20reader)
+* GPIO - IR Receiver And Transmitter With Arduino Pro Micro. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/GPIO%20-%20IR)
+* SPI - ESP communication With TFT ILI9341. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/SPI%20-%20TFT%20ILI9341)
+* I2C - ESP communication With OLed 1306. [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/I2C-%20OLED)
 
 
 ## TFT Screen:
 [![ESP32-TFT-ILI9341](https://img.youtube.com/vi/Ap0bh388Uds/0.jpg)](https://www.youtube.com/embed/Ap0bh388Uds)
 
 ## Oled Screen:
-![img](https://github.com/proxytype/ZeroBro/blob/1050294310dfeb6d6b9d6ca315c60866f8d7245e/esp32-oled2.jpg)
+![img](https://github.com/white-bytes/Evil-ZeroBro/blob/main/esp32-oled2.jpg)
 
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/large-oled.png)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/large-oled.png)
 
 ## Experimental
-Multi Oled Screens using TCA9548A with I2C (Arduino Sketch). [>>>](https://github.com/proxytype/ZeroBro/tree/main/Experimental/Oled-Multiscreen/ESP32/Arduino)
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Experimental/Oled-Multiscreen/ESP32/Arduino/oled.jpg)
+Multi Oled Screens using TCA9548A with I2C (Arduino Sketch). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Experimental/Oled-Multiscreen/ESP32/Arduino)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Experimental/Oled-Multiscreen/ESP32/Arduino/oled.jpg)
 <br />
 <br />
-ESP32 LAN8720 Ethernet (Arduino Sketch). [>>>](https://github.com/proxytype/ZeroBro/tree/main/Experimental/lan8720)<br />
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Experimental/lan8720/lan8720.jpg)
+ESP32 LAN8720 Ethernet (Arduino Sketch). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Experimental/lan8720)<br />
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Experimental/lan8720/lan8720.jpg)
 
 ## Hardware
 
@@ -45,21 +48,21 @@ ESP32 LAN8720 Ethernet (Arduino Sketch). [>>>](https://github.com/proxytype/Zero
     * 18650 Battery bay (3v/5v + protection). [>>>](https://www.aliexpress.com/item/1005004006109248.html)
     * 18650 Batteries with protection. [>>>](https://www.aliexpress.com/item/1005003411216513.html)
  
-  ![Power](https://raw.githubusercontent.com/proxytype/ZeroBro/main/power2.jpg)
+  ![Power](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/power2.jpg)
 
 Starting to design a modular system where each layer consists of a set of components:
 
 * ESP32 Layer
 
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/esp-base.png)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/esp-base.png)
 
 * Arduino Micro Layer
 
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/arduino-base1.png)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/arduino-base1.png)
 
 * GPS Layer - SIM800L
 
-![img](https://raw.githubusercontent.com/proxytype/ZeroBro/main/gps-1.jpg)
+![img](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/gps-1.jpg)
 
 ## Environments
 ### ESP
