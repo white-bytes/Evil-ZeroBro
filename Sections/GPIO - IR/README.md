@@ -2,7 +2,7 @@
 
 This Arduino code enables you to capture, analyze, and replay infrared (IR) signals using an Arduino board and the IRremote library. It's a versatile project that simplifies working with IR signals, making it useful for tasks such as replicating remote control commands or debugging IR communication.
 
-![IR Preview](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Sections/GPIO%20-%20IR/ir_tx_preview.jpg)
+![IR Preview](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Sections/GPIO%20-%20IR/ir_tx_preview.jpg)
 
 ### Features
 
@@ -28,7 +28,7 @@ This Arduino code enables you to capture, analyze, and replay infrared (IR) sign
    - The `dump()` function is called to print detailed information about the received IR signal.
    - The IR receiver is resumed with `irrecv.resume()` to prepare for receiving the next IR signal.
 
-![IR Signal Capture](https://raw.githubusercontent.com/proxytype/ZeroBro/main/Sections/GPIO%20-%20IR/ir_rx_tx.png)
+![IR Signal Capture](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/Sections/GPIO%20-%20IR/ir_rx_tx.png)
 
 ### Customization
 
