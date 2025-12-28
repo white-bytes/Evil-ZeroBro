@@ -3,6 +3,8 @@ Evil-ZeroBro is a custom version based on ZeroBro - a cost-effective DIY alterna
 
 This is a customized fork with additional features and modifications for the white-bytes community.
 
+> **Acknowledgment:** This project is based on [ZeroBro by proxytype](https://github.com/proxytype/ZeroBro). We are grateful for their work in creating this open-source alternative to the Flipper Zero.
+
 ![Evil-ZeroBro](https://raw.githubusercontent.com/white-bytes/Evil-ZeroBro/main/zerobro-1.PNG)
 
 * UART - ESP comunication With Arduino Pro Micro (BadUSB). [>>>](https://github.com/white-bytes/Evil-ZeroBro/tree/main/Sections/UART%20-%20Arduino%20Pro%20Micro)
